@@ -1,2 +1,4 @@
-# HomePage
-Landing page for my personal website
+# Joseph Navarra
+Purdue University Mechanical Engineering Student
+
+## Welcome to my personal website and digital portfolio
