@@ -12,11 +12,11 @@ Purdue University Mechanical Engineering Student
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Page Joseph Navarra</title>
  
 <style>
 body {
-        background-image: url("profile.jpg");
+        background-image: url("profile.JPG");
 } 
  
 </style>
