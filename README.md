@@ -9,6 +9,27 @@ Purdue University Mechanical Engineering Student
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+ 
+<style>
+body {
+        background-image: url("profile.jpg");
+} 
+ 
+</style>
+ 
+</head>
+ 
+<body>
+ 
+</body>
+</html>
+
+
+
 
 
 
